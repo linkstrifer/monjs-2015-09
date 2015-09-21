@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/_module.scss"],"names":[],"mappings":"AAQA,GACC,SAAW,CADR","file":"base.css","sourcesContent":["// Titles\n//\n// My awesome titles\n// markup:\n// <h1>H1 title</h1>\n//\n// Styleguide 1.0.0\n\nh1 {\n\tcolor: red;\n}\n\n// p\n//\n// My awesome titles\n// markup:\n// <h1>H1 title</h1>\n//\n// Styleguide 2.0.0\n\np {}"],"sourceRoot":"/source/"}
