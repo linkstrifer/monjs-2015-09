@@ -1,0 +1,1 @@
+{"version":3,"sources":["modules/module.js","app.js"],"names":["test","console","log","a"],"mappings":"AAAA,QAAAA,QACAC,QAAAC,IAAA,QCDA,GAAAC,GAAA","file":"scripts.js","sourcesContent":["function test() {\n\tconsole.log('test');\n}","var a = 2;"],"sourceRoot":"/source/"}
