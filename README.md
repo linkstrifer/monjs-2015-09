@@ -2,7 +2,11 @@
 
 ##Installing
 
-Just run 'npm install'
+Just run `npm install`
+
+##Bugs
+
+If you find a bug, let me know at [@LinkStrifer](http://twitter.com/linkstrifer)
 
 ##Tasks
 
